@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/e8/7b/36/e87b36c83fd07272d08d5131f43d4965.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+h1{
+    color: yellow;
+}
+
+#box{
+    background-color: black;
+    opacity: 0.5;
+    width: 600px;
+    height: 900px;
+    margin: auto;
+    padding: 50px;
+    border: 5px solid black;
+    border-style:dotted;
+}
+
+#Content{
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    margin: auto;
+}
+
